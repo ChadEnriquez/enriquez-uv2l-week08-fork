@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "602203538083",
+    "project_id": "cmsc23-todo-app--caenriquez",
+    "storage_bucket": "cmsc23-todo-app--caenriquez.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602203538083:android:ba0cc6064fe99ca7a43516",
+        "android_client_info": {
+          "package_name": "com.example.week7_networking_discussion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtPfTs7UsgmK5Dm7kF55SlVmJPSG6aoi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
